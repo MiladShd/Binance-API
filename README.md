@@ -1,6 +1,6 @@
 # Binance-API
 
-## This is what I learned about coding for trading crypto currencies in Binance Market.
+## This repo includes some of what I learned about coding in Python for trading crypto currencies in Binance Market.
 
 ## To start I suggest to look at Sam McHardy's work: https://github.com/sammchardy/python-binance
 
