@@ -24,7 +24,7 @@ we need to **delay** the process to avoid getting redundant and repepetive data.
 -Global variable: it can be defined by, global variable_name. In each function, the command global variable_name is needed.
 
 ##Code:
-
+```
 import threading 
 from threading import Thread
 import time
@@ -52,7 +52,7 @@ tGetStopPrice= threading.Thread(target=stopPriceFunc)
 tGetPrice.start()
 
 tGetStopPrice.start()
-
+```
 Thanks for reading this article:
 Milad Shaddelan
 MSc. Business Analytics & MBA
